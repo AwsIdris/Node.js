@@ -1,0 +1,14 @@
+
+---------------- Help For Using todo command ------------
+
+The  Instruction to use the (todo)command .
+
+node index [command][additional parameters];
+
+node index : show the help file;
+node index help: show  the help;
+node index list : list the contains of todo file;
+node index add " to do text": add the text after the add todo file;
+node index remove 3 : to remove the third todo from the todo file;
+node index reset : to empty todo file;
+node index update 2: to update the second element in todo file;
